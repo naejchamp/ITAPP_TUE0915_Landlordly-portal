@@ -64,7 +64,7 @@ const PropertyDetails = () => {
         <p><strong>Price:</strong> ${property.price}</p>
         <div className='border p-4'>
         <h4>Schedule your meeting</h4>
-        <InlineWidget url="https://calendly.com/theshoaibihsan10/30min"  />
+        <InlineWidget url="https://calendly.com/infolandlordly/30min"  />
 
        </div>
       </div>
