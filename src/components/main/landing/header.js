@@ -13,7 +13,7 @@ const Header = ()=>{
           Your Family
         </h1>
         <p className="animated fadeIn mb-4 pb-2">
-          Discover your dream home sweet home with us. Explore our platform filled with cozy retreats, charming abodes, and enchanting spaces
+          Discover your dream home sweet home with us. Explore our platform filled with cozy retreats, charming abodes, and enchanting spaces.
         </p>
         <a href="" className="btn btn-primary py-3 px-5 me-3 animated fadeIn">
           Get Started
