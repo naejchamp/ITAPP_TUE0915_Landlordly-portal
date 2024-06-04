@@ -14,9 +14,8 @@ const PropertyTypes = ()=>{
             >
               <h1 className="mb-3">Property Types</h1>
               <p>
-                Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut dolore
-                lorem kasd vero ipsum sit eirmod sit. Ipsum diam justo sed rebum vero
-                dolor duo.
+                At our platform you can find different properties, be sure to check out using our filter for more defined choice of yours.
+    we are also available in the contact page.
               </p>
             </div>
             <div className="row g-4">
@@ -183,21 +182,21 @@ const PropertyTypes = ()=>{
         <div className="col-lg-6 wow fadeIn" data-wow-delay="0.5s">
           <h1 className="mb-4">#1 Place To Find The Perfect Property</h1>
           <p className="mb-4">
-            Tempor erat elitr rebum at clita. Diam dolor diam ipsum sit. Aliqu
-            diam amet diam et eos. Clita erat ipsum et lorem et sit, sed stet
-            lorem sit clita duo justo magna dolore erat amet
+            
+          </p>
+          Welcome to the top destination for discovering your perfect home. 
+          Explore our curated listings and find the dream property you've been searching for.
+          <p>
+            <i className="fa fa-check text-primary me-3" />
+            Houses
           </p>
           <p>
             <i className="fa fa-check text-primary me-3" />
-            Tempor erat elitr rebum at clita
+            Appartments
           </p>
           <p>
             <i className="fa fa-check text-primary me-3" />
-            Aliqu diam amet diam et eos
-          </p>
-          <p>
-            <i className="fa fa-check text-primary me-3" />
-            Clita duo justo magna dolore erat amet
+            other properties 
           </p>
           <a className="btn btn-primary py-3 px-5 mt-3" href="">
             Read More
