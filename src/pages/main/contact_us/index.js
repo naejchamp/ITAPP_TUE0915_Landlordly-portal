@@ -66,7 +66,8 @@ const ContactUs = ()=>{
         <div className="">
           <div className="wow fadeInUp" data-wow-delay="0.5s">
             <p className="mb-4">
-              drop us an email and we will get back to you.
+              Drop us a line, start the conversation, and let us know how we can assist you. Your feedback matters, and we're ready to listen. 
+                    Contact us now and experience customer support at its best!
             </p>
             <form>
               <div className="row g-3">
