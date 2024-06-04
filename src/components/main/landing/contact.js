@@ -23,8 +23,8 @@ const Contact = ()=>{
                     <div className="mb-4">
                       <h1 className="mb-3">Contact with us</h1>
                       <p>
-                        Eirmod sed ipsum dolor sit rebum magna erat. Tempor lorem kasd
-                        vero ipsum sit sit diam justo sed vero dolor duo.
+                        Get in touch with us today and let's connect! 
+                        Whether you have questions, feedback, or simply want to say hello, our team is here to help.
                       </p>
                     </div>
                   
