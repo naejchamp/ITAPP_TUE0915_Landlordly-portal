@@ -14,15 +14,15 @@ const Footer = ()=>{
                 <h5 className="text-white mb-4">Get In Touch</h5>
                 <p className="mb-2">
                   <i className="fa fa-map-marker-alt me-3" />
-                  123 Street, New York, USA
+                  Plac kaliskiego, Wroclaw, Poland
                 </p>
                 <p className="mb-2">
                   <i className="fa fa-phone-alt me-3" />
-                  +012 345 67890
+                  +48 435326234
                 </p>
                 <p className="mb-2">
                   <i className="fa fa-envelope me-3" />
-                  info@example.com
+                  info@landlordly.com
                 </p>
                 <div className="d-flex pt-2">
                   <a className="btn btn-outline-light btn-social" href="">
@@ -59,8 +59,8 @@ const Footer = ()=>{
               </div>
              
               <div className="col-lg-3 col-md-6">
-                <h5 className="text-white mb-4">Be Landlord</h5>
-                <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                <h5 className="text-white mb-4">Newsletter</h5>
+                <p>#1 for property management.</p>
                 <div className="position-relative mx-auto" style={{ maxWidth: 400 }}>
                   <input
                     className="form-control bg-transparent w-100 py-3 ps-4 pe-5"
@@ -71,7 +71,7 @@ const Footer = ()=>{
                     type="button"
                     className="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2"
                   >
-                    SignUp
+                    Add
                   </button>
                 </div>
               </div>
@@ -85,9 +85,7 @@ const Footer = ()=>{
                   <a className="border-bottom" href="#">
                    Landlordy
                   </a>
-                  , All Right Reserved.
-                  {/*/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. *** /*/}
-                  Designed By{" "}
+                  made with ❤️ from Pl
                   <a className="border-bottom" href="https://htmlcodex.com">
                     HTML Codex
                   </a>
