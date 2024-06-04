@@ -30,7 +30,7 @@ const ContactUs = ()=>{
                   <div className="icon me-3" style={{ width: 45, height: 45 }}>
                     <i className="fa fa-map-marker-alt text-primary" />
                   </div>
-                  <span>123 Street, New York, USA</span>
+                  <span>Plac kaliskiego, Wroclaw, Poland</span>
                 </div>
               </div>
             </div>
@@ -43,7 +43,7 @@ const ContactUs = ()=>{
                   <div className="icon me-3" style={{ width: 45, height: 45 }}>
                     <i className="fa fa-envelope-open text-primary" />
                   </div>
-                  <span>info@example.com</span>
+                  <span>info@landlordly.com</span>
                 </div>
               </div>
             </div>
@@ -56,7 +56,7 @@ const ContactUs = ()=>{
                   <div className="icon me-3" style={{ width: 45, height: 45 }}>
                     <i className="fa fa-phone-alt text-primary" />
                   </div>
-                  <span>+012 345 6789</span>
+                  <span>+48 435326234</span>
                 </div>
               </div>
             </div>
@@ -66,10 +66,7 @@ const ContactUs = ()=>{
         <div className="">
           <div className="wow fadeInUp" data-wow-delay="0.5s">
             <p className="mb-4">
-              The contact form is currently inactive. Get a functional and
-              working contact form with Ajax &amp; PHP in a few minutes. Just
-              copy and paste the files, add a little code and you're done.{" "}
-              <a href="https://htmlcodex.com/contact-form">Download Now</a>.
+              drop us an email and we will get back to you.
             </p>
             <form>
               <div className="row g-3">
