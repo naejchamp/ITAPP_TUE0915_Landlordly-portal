@@ -85,10 +85,7 @@ const Footer = ()=>{
                   <a className="border-bottom" href="#">
                    Landlordy
                   </a>
-                  made with ❤️ from Pl
-                  <a className="border-bottom" href="https://htmlcodex.com">
-                    HTML Codex
-                  </a>
+                  made with ❤️ from KGL
                 </div>
                 <div className="col-md-6 text-center text-md-end">
                   <div className="footer-menu">
