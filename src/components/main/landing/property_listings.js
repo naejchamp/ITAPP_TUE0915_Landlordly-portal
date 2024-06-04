@@ -31,8 +31,8 @@ const PropertyListings = () => {
               >
                 <h1 className="mb-3">Property Listing</h1>
                 <p>
-                  Eirmod sed ipsum dolor sit rebum labore magna erat. Tempor ut
-                  dolore lorem kasd vero ipsum sit eirmod sit diam justo sed rebum.
+                  find out our available properties and make you choice, if any trouble we are at your disposal. 
+                  thank you for considering us.
                 </p>
               </div>
             </div>
