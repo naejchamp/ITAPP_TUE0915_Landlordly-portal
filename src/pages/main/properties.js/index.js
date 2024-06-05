@@ -113,7 +113,7 @@ const Properties = () => {
                     <div className="property-item rounded overflow-hidden">
                       <div className="position-relative overflow-hidden">
                         <a href={`/properties/${property.id}`}>
-                          <img className="img-fluid" src={`${base_url}/application/static/uploads/${property.picture_1}`} alt="" />
+                          <img className="img-fluid" src={`${base_url}/static/uploads/${property.picture_1}`} alt="" />
                         </a>
                         <div className="bg-primary rounded text-white position-absolute start-0 top-0 m-4 py-1 px-3">
                           {property.selling_type}
