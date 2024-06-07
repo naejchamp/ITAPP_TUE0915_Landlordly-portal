@@ -76,7 +76,7 @@ const PropertyDetails = () => {
             <h4 className="card-title">Landlord Information</h4>
             {/* Assuming you have landlord data in the property object */}
             <p><strong>Landlord Name:</strong> {property.landlord_name}</p>
-            <p><strong>Landlord Phone number:</strong> {property.landlord_phone_no}</p>
+            <p><strong>Landlord Phone number:</strong> 246378365 </p>
             <p><strong>Landlord Email:</strong> {property.landlord_email}</p>
 
             {/* Add more landlord details if available */}
