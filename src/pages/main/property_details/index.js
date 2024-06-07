@@ -63,8 +63,9 @@ const PropertyDetails = () => {
         <p><strong>Washrooms:</strong> {property.no_washrooms}</p>
         <p><strong>Price:</strong> ${property.price}</p>
         <div className='border p-4'>
-        <h4>Schedule your meeting</h4>
-        <InlineWidget url="https://calendly.com/infolandlordly/30min"  />
+        <h4>Schedule your meeting for the visiting</h4>
+        <div class="calendly-inline-widget" data-url="https://calendly.com/infolandlordly/30min?hide_event_type_details=1&hide_gdpr_banner=1&primary_color=00b98e" style="min-width:320px;height:700px;"></div>
+<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
 
        </div>
       </div>
